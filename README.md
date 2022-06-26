@@ -19,6 +19,7 @@ Students successfully completing this course will be able to:
 - Loading, displaying, and saving images
 - Image color spaces and channels
 - Geometric transformations of images
+- Sample application: motion detection
 
 ### 2. Image transformations and filters
 - Morphological transformations
