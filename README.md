@@ -1,7 +1,7 @@
 # Data Science Pathways - Block8 - Introduction to Computer Vision
 
 ## Course description:
-This course covers fundamental topics of computer vision. Topics include elementary image operations and transformations, feature extraction, model fitting, object recognition, classification and tracking, deep learning, camera models, and stereo vision.
+This course covers fundamental topics of computer vision. Topics include elementary image operations and transformations, feature extraction, model fitting, object recognition and recognition, classification and tracking, deep learning, image segmentation, image matching, and image search.
 
 
 ## Course objectives:
