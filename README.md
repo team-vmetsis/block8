@@ -37,7 +37,7 @@ Students successfully completing this course will be able to:
 ### 4. Model fitting, object detection, and recognition
 - Template matching
 - Correlation-based face detection
-- PCA-based face detection
+- PCA-based face recognition
 - Deep learning-based optical character recognition
 - Deep learning-based human activity recognition
 
